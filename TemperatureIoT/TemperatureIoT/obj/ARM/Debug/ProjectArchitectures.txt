@@ -1,0 +1,1 @@
+C:\Users\Alessio Moretti\Desktop\IoTCore\raspi_deployment\TemperatureIoT\TemperatureIoT\TemperatureIoT.csproj;arm
